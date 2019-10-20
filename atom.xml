@@ -1,13 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eosvote.com/</id>
-    <title>Gridea</title>
-    <updated>2019-10-19T13:18:32.152Z</updated>
+    <title>Macin CHEN</title>
+    <updated>2019-10-20T07:23:03.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eosvote.com/"/>
     <link rel="self" href="https://eosvote.com//atom.xml"/>
     <subtitle>深耕才能发芽，学习是门艺术。</subtitle>
     <logo>https://eosvote.com//images/avatar.png</logo>
     <icon>https://eosvote.com//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, Macin CHEN</rights>
+    <entry>
+        <title type="html"><![CDATA[优质工具和信息来源]]></title>
+        <id>https://eosvote.com//post/you-zhi-gong-ju-he-xin-xi-lai-yuan</id>
+        <link href="https://eosvote.com//post/you-zhi-gong-ju-he-xin-xi-lai-yuan">
+        </link>
+        <updated>2019-10-19T13:31:23.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="1ugc社区">1.UGC社区</h2>
+<ul>
+<li>
+<p>币乎<br>
+算得上是区块链第一垂直社区了，发表文章和认真回复均有收益。之前水文和抄袭严重，现在文章质量不错。<a href="https://m.bihu.com/signup?i=3QO4&amp;c=4&amp;s=4">官网</a><br>
+<img src="https://eosvote.com//post-images/1571556153254.jpg" alt=""></p>
+</li>
+<li>
+<p>巴比特<br>
+中文领域最老牌的比特币论坛了。非常适合区块链考古 😄。现在改名字叫做「ChainNode」了，“文库”和“视频”板块的东西质量很高。<a href="https://www.chainnode.com">官网</a></p>
+</li>
+<li>
+<p>...</p>
+</li>
+</ul>
+<h2 id="2微博微信的信息源">2.微博/微信的信息源</h2>
+<ul>
+<li>九神：一个纯粹的比特币信仰者。<a href="https://weibo.com/ahr999?is_all=1">直达</a></li>
+<li>BTC狙击手：一个匿名账号，话糙理不糙。<a href="https://weibo.com/u/6766326144">直达</a></li>
+<li>潘志彪kevin：BTC中文社区的技术第一人。<a href="https://weibo.com/u/6766326144">直达</a></li>
+<li>万卉Dovey：美女奶王，英文超棒。<a href="https://weibo.com/p/1005052248200494?is_all=1">直达</a></li>
+<li>Mikko：智堡创始人，用独特的视角分析了Libra。<a href="https://weibo.com/mikkolism">直达</a></li>
+<li>少女写真映画：熊市减压必备 <a href="https://weibo.com/u/6524978930">直达</a> 😂</li>
+</ul>
+<h2 id="3dapp推荐">3.Dapp推荐</h2>
+<ul>
+<li>
+<p>Lorefree<br>
+一个知识共享社区，目前基于token奖励搭建了电子书与论文共享平台。让每个人都能自由地获取到知识，让人人能够自由地免费阅读。<a href="https://ebook.lorefree.com/">官网</a></p>
+</li>
+<li>
+<p>Matataki<br>
+基于区块链，永久存储（抗审查）和版权记录的内容平台。<a href="https://www.matataki.io?referral=176">官网</a></p>
+</li>
+<li>
+<p>BigGame<br>
+游戏平台，目前主要是小的“菠菜”游戏，但凭借高分红和流水额成为行业龙头，UI简洁大方，是区块链游戏中的精品。<a href="https://h5.big.game/?code=gyzdamrxgyge">官网</a></p>
+</li>
+</ul>
+<blockquote>
+<p>以上推荐均不构成投资建议，仅作参考。 😊</p>
+</blockquote>
+<h2 id="4优质工具">4.优质工具</h2>
+<ul>
+<li>
+<p>EOSTools<br>
+批量执行任务的神器。薅羊毛的“科学家”一般都是用这个，一个强大的脚本工具。付费使用。<a href="http://eostools.io?r=qoooooooooob">官网</a></p>
+</li>
+<li>
+<p>MYKEY<br>
+多链钱包，是市面上为数不多可以免费领取EOS账号的钱包。相比Meetone和TP钱包，使用门槛更低，无需了解复杂的RAM/CPU/NET，目前注册还可以赠送8000个KEY代币。<a href="https://mykey.org/i/UKVRDY">官网</a></p>
+</li>
+<li>
+<p>块信<br>
+以区块链IM为入口，支持公众号、超大群组、红包、小程序等，现有微信小程序可以无缝平移上链，有得玩儿。<a href="https://h5.chattle.vip/#/redpack/7722925">官网</a></p>
+</li>
+<li>
+<p>EOS大侦探<br>
+由超级节点 Nation 开发，用非常直观和炫酷的方式展示EOS账号间千丝万缕的联系，用来看资金盘的话，简直就是上帝之眼 👀。免费，需科学上网。<a href="https://eosdetective.io/">官网</a></p>
+</li>
+<li>
+<p>...</p>
+</li>
+</ul>
+]]></content>
+    </entry>
 </feed>
