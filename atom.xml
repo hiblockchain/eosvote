@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eosvote.com/</id>
-    <title>Macin CHEN</title>
-    <updated>2019-10-20T07:23:03.825Z</updated>
+    <title>薛定谔的韭菜</title>
+    <updated>2019-10-20T07:30:31.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eosvote.com/"/>
     <link rel="self" href="https://eosvote.com//atom.xml"/>
     <subtitle>深耕才能发芽，学习是门艺术。</subtitle>
     <logo>https://eosvote.com//images/avatar.png</logo>
     <icon>https://eosvote.com//favicon.ico</icon>
-    <rights>All rights reserved 2019, Macin CHEN</rights>
+    <rights>All rights reserved 2019, 薛定谔的韭菜</rights>
     <entry>
         <title type="html"><![CDATA[优质工具和信息来源]]></title>
-        <id>https://eosvote.com//post/you-zhi-gong-ju-he-xin-xi-lai-yuan</id>
-        <link href="https://eosvote.com//post/you-zhi-gong-ju-he-xin-xi-lai-yuan">
+        <id>https://eosvote.com//post/dapp-ref</id>
+        <link href="https://eosvote.com//post/dapp-ref">
         </link>
         <updated>2019-10-19T13:31:23.000Z</updated>
         <content type="html"><![CDATA[<h2 id="1ugc社区">1.UGC社区</h2>
