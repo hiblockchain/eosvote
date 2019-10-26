@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eosvote.com/</id>
     <title>Macin Progress Bar</title>
-    <updated>2019-10-26T09:02:53.393Z</updated>
+    <updated>2019-10-26T14:44:34.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eosvote.com/"/>
     <link rel="self" href="https://eosvote.com//atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2019, Macin Progress Bar</rights>
     <entry>
         <title type="html"><![CDATA[人民币国际化受阻，区块链登场突围]]></title>
-        <id>https://eosvote.com//post/ren-min-bi-guo-ji-hua-shou-zu-qu-kuai-lian-deng-chang-tu-wei</id>
-        <link href="https://eosvote.com//post/ren-min-bi-guo-ji-hua-shou-zu-qu-kuai-lian-deng-chang-tu-wei">
+        <id>https://eosvote.com//post/RMBinternational</id>
+        <link href="https://eosvote.com//post/RMBinternational">
         </link>
         <updated>2019-10-26T06:40:48.000Z</updated>
         <content type="html"><![CDATA[<h2 id="新闻连起来看有意思">新闻连起来看有意思</h2>
