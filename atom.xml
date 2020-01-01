@@ -2,18 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eosvote.com/</id>
     <title>Macin</title>
-    <updated>2019-12-12T14:14:26.706Z</updated>
+    <updated>2020-01-01T05:09:39.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eosvote.com/"/>
-    <link rel="self" href="https://eosvote.com//atom.xml"/>
+    <link rel="self" href="https://eosvote.com/atom.xml"/>
     <subtitle>深耕才能发芽，学习是门艺术。</subtitle>
-    <logo>https://eosvote.com//images/avatar.png</logo>
-    <icon>https://eosvote.com//favicon.ico</icon>
-    <rights>All rights reserved 2019, Macin</rights>
+    <logo>https://eosvote.com/images/avatar.png</logo>
+    <icon>https://eosvote.com/favicon.ico</icon>
+    <rights>All rights reserved 2020, Macin</rights>
+    <entry>
+        <title type="html"><![CDATA[用饿了么撸KEY，这是什么骚操作？]]></title>
+        <id>https://eosvote.com/post/OX2Hd_6aE</id>
+        <link href="https://eosvote.com/post/OX2Hd_6aE">
+        </link>
+        <updated>2020-01-01T04:55:18.000Z</updated>
+        <content type="html"><![CDATA[<p><code>大家好，我是推土机，凭运气赚的钱已经凭实力亏出去了😂，现在想靠认知在币圈赚到钱。</code></p>
+<p>今天给大家带来的分享是：<strong>如何用饿了么平台赚到KEY</strong>。</p>
+<h2 id="1目前赚key的方式">1.目前赚KEY的方式</h2>
+<p>大家都知道在币乎想赚到KEY，<strong>目前已有</strong>的几种方式：</p>
+<ul>
+<li>直接交易所购买，目前价格1分左右。100块钱买到1万枚；</li>
+<li>在币乎发文/点赞/评论，这个要求你先有KEY质押，获得权重；</li>
+<li>参加MYKEY钱包活动，每日签到，我每天签到获得99枚。</li>
+</ul>
+<p>这三种方式我都有参与过，大家可以看一下截图：<br>
+<img src="https://imgkr.cn-bj.ufileos.com/d391924f-bf74-452f-9384-c64a3190cdbb.jpg" alt="1.传统赚KEY方式" loading="lazy"></p>
+<p>各位币东们，有没有一种新途径能撸到KEY呢？<code>当然是有的</code>。就是通过饿了么平台。</p>
+<p>平时大家都应该吃过饿了么的外卖，饿了么是2008年成立的本地生活服务平台，据官方财报披露已经有2.3亿用户。2017年饿了么收购了百度外卖，2018年饿了么被阿里全资收购，所以现在你在淘宝App里头，也能在首页位置看到饿了么菜单。<br>
+<img src="https://imgkr.cn-bj.ufileos.com/c3334bd2-2197-402b-a0a8-fbd403430d6f.jpg" alt="2.饿了么" loading="lazy"></p>
+<p>好了，废话不多说，我们直接开始【用饿了么撸KEY】的教程。</p>
+<h2 id="2本教程的前提">2.本教程的前提：</h2>
+<p>🍕你平时有吃外卖的消费习惯；<br>
+🍕你是币东，看好KEY的未来。</p>
+<h2 id="3具体教程">3.具体教程</h2>
+<h3 id="第一步下载注册块信">第一步：下载注册块信</h3>
+<p>这个步骤很简单，点击链接注册即可：<a href="https://h5.chattle.vip/#/redpack/7722925">注册链接</a> ，注册完成后会自动弹出块信App的下载链接。</p>
+<blockquote>
+<p>如果你是iOS用户，安装块信App的时候，需要先下载苹果的Testflight，然后再安装块信。玩币圈，还是得有个安卓手机 😂</p>
+</blockquote>
+<figure data-type="image" tabindex="1"><img src="https://imgkr.cn-bj.ufileos.com/b3cfd95c-38a5-40b4-a2ba-aba6a31df2d1.jpg" alt="成功安装App" loading="lazy"></figure>
+<p>做一个无情的羊毛党，点我下载安装。</br><br>
+<a href="https://h5.chattle.vip/#/redpack/7722925">⚡下载链接 ⚡</a></p>
+<h3 id="第二步块外卖">第二步：块外卖</h3>
+<p>打开块信，在底部菜单栏找到<code>发现</code>，找到 <code>块外卖</code> 小程序，点击进去，选择你想吃的东西，下单。付款的时候会跳转到淘宝App，完成支付。</p>
+<figure data-type="image" tabindex="2"><img src="https://imgkr.cn-bj.ufileos.com/bf2baf19-2fef-4023-a66b-f234ca85e5e0.jpg" alt="块外卖界面" loading="lazy"></figure>
+<p>这里说一下，块信上的外卖其实不是自营，只是通过API的形式与饿了么系统进行了对接。所以，通过块信点外卖，<strong>价格是一样的。</strong></p>
+<h3 id="第三步返佣">第三步：返佣</h3>
+<p>返回块信，等待订单数据同步。一般很快就可以看到，刚才的外卖订单会有多少返佣。比如下图这单，会返佣 21.35 PYP。<em>（PYP是块信的平台币）</em></p>
+<figure data-type="image" tabindex="3"><img src="https://imgkr.cn-bj.ufileos.com/c3283014-6634-417f-87cf-4af4d504d364.png" alt="点单返佣" loading="lazy"></figure>
+<h3 id="第四步提现">第四步：提现</h3>
+<p>等外卖订单结算后，将PYP提现到零钱包。这个步骤也非常简单，点一下就能完成。提现没有任何门槛，0.0001也可以提现，也没有手续费。大家可以放心操作。</p>
+<p>如图所示：</p>
+<figure data-type="image" tabindex="4"><img src="https://imgkr.cn-bj.ufileos.com/d6a6d563-63a0-4ad6-aa00-c57d58baac09.jpg" alt="提现" loading="lazy"></figure>
+<h3 id="第五步兑换">第五步：兑换</h3>
+<h4 id="otc兑换">OTC兑换</h4>
+<p>找到块信用户 “推土机”（块信ID：7722925，可以加他好友） ，他提供PYP与KEY的兑换。</p>
+<h4 id="虎符闪兑">虎符闪兑</h4>
+<p>如果你没有虎符交易所，可以先<a href="https://hoo.com/invite/17984573">注册虎符</a> ，然后将块信返的PYP币充值到虎符。虎符目前提供 <code>PYP &lt;-&gt; BTC</code> 、<code>PYP &lt;-&gt; ETH</code>、<code>PYP &lt;-&gt; EOS</code>、<code>PYP &lt;-&gt; HT</code>、<code>PYP &lt;-&gt; BCH</code>、<code>PYP &lt;-&gt; LTC</code>、<code>PYP &lt;-&gt; USDT</code> 等多个主流币种。</p>
+<p>将PYP充值到虎符后，就可以将PYP变成主流币了！😄</p>
+<p>所以，用饿了么还可以撸到比特币。😱</p>
+<p>目前PYP还没有上交易所，价格在4分左右。粗略估算的话，<code>1枚PYP可以兑换4枚KEY</code>。直接将刚才获得的PYP在块信聊天界面，通过红包的形式发给他，他会自动返还对应KEY给你。</p>
+<ul>
+<li>另外，新人会收到赠送的30枚PYP，这就可以白白撸到120枚KEY啦！</li>
+<li>另外，新人会收到赠送的30枚PYP，这就可以白白撸到120枚KEY啦！</li>
+<li>另外，新人会收到赠送的30枚PYP，这就可以白白撸到120枚KEY啦！</li>
+</ul>
+<p>重要的事情说三遍，币东们学会了吗？ 😄</p>
+<h2 id="4收益预估">4.收益预估</h2>
+<p>一单外卖20-30元不等，平均返佣有5-15枚PYP，按目前的市价，能兑换50多枚KEY。一个月吃四次外卖的话（平均一周一次），至少有<strong>200KEY</strong>的收益。</p>
+<p>如果你们同事也经常吃外卖，你帮他点单，还有多一份KEY收入；如果你邀请其他人用块信点外卖，他作为你的受邀用户，也可以分得收益。</p>
+<p>所以，收益是<strong>没有上限</strong>的。</p>
+<h2 id="5one-more-thing">5.One More Thing</h2>
+<p>通过饿了么直接点外卖，没有任何收益的；</br><br>
+通过块信点饿了么外卖，能获得<code>KEY</code>收益。</p>
+<p><strong>两种点单方式价格完全一样</strong>，互联网就是这么神奇：渠道不同，收益就不同。</p>
+<p>本教程仅针对本来就有吃外卖的币东朋友们，<strong>不推荐大家为了刷KEY而去点外卖</strong>，这样还不如直接去交易所买KEY。谢谢大家的阅读。</p>
+</br>
+</br>
+<hr>
+<p>好了，今天的撸<code>KEY</code>教程就到这里了，希望2020年<code>KEY</code>大涨！(PS: 聪明的小伙伴可能已经发现了，其实这个方法也可以用来撸BTC，撸ETH，撸任何主流币！不浪费自己消费出去的每一分钱！)</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[少年强则国强，少年的你却受伤]]></title>
-        <id>https://eosvote.com//post/-evzNPapk</id>
-        <link href="https://eosvote.com//post/-evzNPapk">
+        <id>https://eosvote.com/post/-evzNPapk</id>
+        <link href="https://eosvote.com/post/-evzNPapk">
         </link>
         <updated>2019-11-27T13:07:35.000Z</updated>
         <content type="html"><![CDATA[<p>本期我们聊聊亲身经历过的校园霸凌</p>
@@ -27,7 +100,7 @@
 <h2 id="2">2</h2>
 <p>某天放学回家后，爸妈发现我的鼻孔里面黑乎乎的，于是父亲拿来镊子，把我鼻孔里的东西一点一点夹了出来，里面都是混着鼻血的卷成小卷的吹塑纸。</p>
 <p>平日里我的记性还算不错，但是这一天真的像失忆了一样，只依稀记得下午是和一个姓莫的女同学一起玩耍。后来好像发生了一些不甚愉快的事情。我父母气急之下找到了那个女同学和她的家长，她也承认了往我鼻孔里塞纸的事情，不过原因就只是说“好玩而已”。</p>
-<figure data-type="image" tabindex="1"><img src="https://eosvote.com//post-images/1574860877620.JPG" alt="新闻截图"></figure>
+<figure data-type="image" tabindex="1"><img src="https://eosvote.com//post-images/1574860877620.JPG" alt="新闻截图" loading="lazy"></figure>
 <p>在厂矿小学读书时候，我是一个满脸是雀斑的小姑娘。</p>
 <p>大约三、四年级，班里有一个男孩子一直取笑我，并且伙同班里的其他同学一起欺负我。心思细腻的我经常为此偷偷地哭。这种情况影响了我差不多一个学期，原本性格很开朗的我变得很抑郁。我爸妈已经劝了我很多次，说是不要放在心上。换成现在的我大概能够释怀，但是对于当时小小的我而言，这一点悲伤足以充溢我小小的身体。</p>
 <p>后来还是我爸用特别男人的方式找了那个男同学，口头明确警告了他，后来这个男孩子再也没有欺负过我了。感谢我的爸妈一直在背后支持我，否则我也许和许多的易遥、陈念一样孤立无援了。</p>
@@ -51,7 +124,7 @@
 <p>愤怒掀过桌子，吵过喋喋不休，沉默假装臣服，似乎没有哪一种方法可以解救已经深陷于泥泞中的我。</p>
 <p>可以把你的愤怒当做笑话，把你反抗的语言当做谈资，把你的示弱当做理所当然，生活陷入了寂静。</p>
 <p>因此我特别理解易遥投水的那一个慢镜头：全世界终于安静了，终于不是四面埋伏，终于不必腹背受敌，终于可以张开心胸拥抱这个世界，哪怕是最后一次。</p>
-<figure data-type="image" tabindex="2"><img src="https://eosvote.com//post-images/1574860907302.PNG" alt="易遥投水的那一刻"></figure>
+<figure data-type="image" tabindex="2"><img src="https://eosvote.com//post-images/1574860907302.PNG" alt="易遥投水的那一刻" loading="lazy"></figure>
 <h2 id="7">7</h2>
 <p>文字解救了我。</p>
 <p>如果说一开始对文字的喜爱源自对生活的感慨，那么初中的我已然把文字当做了情绪的倾斜口。我开始拼命地写，所有的开心愤怒悲伤满足都在文字里面。可是文字也未必是安全的，因为你的周记本、日记本都会被人偷偷打开，你的心迹会被人拿出来诵读。</p>
@@ -75,13 +148,13 @@
 🌼感谢一路上爱过我的你们，爱真的可以拯救绝望</p>
 <h2 id="最后">最后</h2>
 <p>如果你正在遭遇校园欺凌，我愿意保护你。我的微信：<code>ShirleyLee613520</code></p>
-<figure data-type="image" tabindex="3"><img src="https://eosvote.com//post-images/1574860938792.JPG" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://eosvote.com//post-images/1574860938792.JPG" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一座重庆城 话前世今生]]></title>
-        <id>https://eosvote.com//post/z7CmjbcyT</id>
-        <link href="https://eosvote.com//post/z7CmjbcyT">
+        <id>https://eosvote.com/post/z7CmjbcyT</id>
+        <link href="https://eosvote.com/post/z7CmjbcyT">
         </link>
         <updated>2019-11-16T04:15:39.000Z</updated>
         <content type="html"><![CDATA[<p>大家好，这里是筷子手手给你们摆的龙门阵，今天主要是扯一些重庆城鲜为人知的故事。</p>
@@ -103,8 +176,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[大家好，我们是筷子手]]></title>
-        <id>https://eosvote.com//post/hello-kuaizishou</id>
-        <link href="https://eosvote.com//post/hello-kuaizishou">
+        <id>https://eosvote.com/post/hello-kuaizishou</id>
+        <link href="https://eosvote.com/post/hello-kuaizishou">
         </link>
         <updated>2019-11-16T04:02:51.000Z</updated>
         <content type="html"><![CDATA[<h2 id="1不正经自我介绍">1.不正经自我介绍</h2>
@@ -123,13 +196,13 @@
 <p>从去年开始减肥的手手，瘦了25斤，还成了大众点评八级资深用户。这个时候我开始思考也许我在平衡生活（包括但不限于平衡进食和减肥）上还是有点天赋的。</p>
 <p>对了，还有我妈一直说我从小写的东西都挺好的，比少年出名的那个女作家蒋方舟写得好，只是她没有给我好好发展的机会。所以现在为了不让我妈内疚，还是做点事情，让她觉得给我的已经足够了。</p>
 <p>好像并没有太多逻辑，不过也真心实意的是手手开创<strong>公众号</strong>（ID：筷子小手）的原因，实现中二少女的现实梦想吧。</p>
-<figure data-type="image" tabindex="1"><img src="https://eosvote.com//post-images/1571411507196.jpg" alt=""></figure>
+<figure data-type="image" tabindex="1"><img src="https://eosvote.com//post-images/1571411507196.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[人民币国际化受阻，区块链登场突围]]></title>
-        <id>https://eosvote.com//post/RMBinternational</id>
-        <link href="https://eosvote.com//post/RMBinternational">
+        <id>https://eosvote.com/post/RMBinternational</id>
+        <link href="https://eosvote.com/post/RMBinternational">
         </link>
         <updated>2019-10-26T06:40:48.000Z</updated>
         <content type="html"><![CDATA[<h2 id="新闻连起来看有意思">新闻连起来看有意思</h2>
@@ -139,15 +212,15 @@
 </blockquote>
 <p>以现在人民币的地位和影响力，却在IMF上的份额成反比，现在IMF未能在份额改革上达成一致，西方国家压制人民币国际化的意图已经非常明显。</p>
 <p>早前8月份还有一则新闻：北京时间8月6日，美国财政部将中国列为“汇率操纵国”。数小时后，中国人民银行发表声明，主要意思包括四点：1.对美国这一行为，中方深表遗憾；2.这一标签不符合美财政部自己制订的所谓“汇率操纵国”量化标准；3.是任性的单边主义和保护主义行为；4.严重破坏国际规则，将对全球经济金融产生重大影响。</p>
-<figure data-type="image" tabindex="1"><img src="https://eosvote.com//post-images/1572073933685.png" alt=""></figure>
+<figure data-type="image" tabindex="1"><img src="https://eosvote.com//post-images/1572073933685.png" alt="" loading="lazy"></figure>
 <h2 id="目前人民币国际化现状如何">目前人民币国际化现状如何?</h2>
 <p>浮动汇率制度改革是2005年开始，2008年左右才开始推人民币国际化的进程。但是我们看<strong>国际外汇储备的占比</strong>，最下面这根线是人民币的份额，很低。数据不会骗人，可以说人民币国际化取得了一些成果，但这是从时间序列上来看的，如果我们从更加面来看，效果是没有那么的明显，体量还非常的小。<br>
-<img src="https://eosvote.com//post-images/1572074336320.png" alt=""></p>
+<img src="https://eosvote.com//post-images/1572074336320.png" alt="" loading="lazy"></p>
 <p>我们再看其他指标,人民币用作<strong>支付手段</strong>的排名上去了，原来是35名，现在是第五名。右边这幅图我们也看到，人民币在国际支付市场的占比才1.95，也就是2%，排名上来了，占比没有上去，最高时候也不过3%。<br>
-<img src="https://eosvote.com//post-images/1572074395404.png" alt=""></p>
+<img src="https://eosvote.com//post-images/1572074395404.png" alt="" loading="lazy"></p>
 <p>下面这个图是央行间的人民币互换，2015年之后，央行几乎<strong>没有</strong>开展货币互换了，就是因为2015年之后，稳定人民币汇率的压力越来越大。开展货币互换相当于给空头提供“弹药”，你总不能限制别人使用人民币的途径吧，专款专用在国内都难操作，国家间更难做到。结算的情况也是，2015年之后不断下降。<br>
-<img src="https://eosvote.com//post-images/1572074475677.png" alt=""></p>
-<p><img src="https://eosvote.com//post-images/1572074530840.png" alt=""><br>
+<img src="https://eosvote.com//post-images/1572074475677.png" alt="" loading="lazy"></p>
+<p><img src="https://eosvote.com//post-images/1572074530840.png" alt="" loading="lazy"><br>
 还有一些综合性的指标，比如人民币环球指数，离岸指数登等，基本上都是停滞不前，<strong>遇到瓶颈了</strong>。</p>
 <h2 id="美元的天罗地网">美元的天罗地网</h2>
 <p>1944年6月6日，盟军完成诺曼底登陆，墨索里尼在1月就已经被绞死，苏军重创德国北方军团，日军正在衡阳苦战，二战胜利指日可待，44国700多名代表来到美国华盛顿山的半山腰，商讨二战结束后的国际货币安排。这次会议谈妥了两件事：</p>
@@ -166,7 +239,7 @@
 <p><strong>国家货币</strong>在于供给，<strong>国际货币</strong>在于需求。美元国际化的经验显示，一个国家的货币能否成为重要的国际货币，重要的不是其做对了什么，而是别人做错了什么。人民币国际化的速度取决于这三个方面的组合，其中最快的组合是：美国和欧洲犯大错，中国少犯错，再加上中国还要做些正确的事。所以，人民币国际化，也讲究<strong>天时、地利、人和</strong>。</p>
 <h2 id="比特币打开的潘多拉之盒">比特币打开的潘多拉之盒</h2>
 <p>一个截至目前仍然无法确定身份的中本聪以比特币（Bitcoin）打开了数字货币的“潘多拉盒子”，虚拟货币、电子货币、加密货币（Cryptocurrency）等纷至沓来，成为数字化时代的颠覆者。数字货币的出现映射传统金融的短板，即货币超发、金融抑制等，其底层的区块链技术和分布式记账也使得虚拟货币的信任机制得以建立，欺诈抑或作假在智能账户体系之下无处遁形。更为重要的是，在“一切皆互联”的场景下，虚拟货币在初生之时就是国际货币，就定位于<strong>全球货币流动</strong>的宏大叙事，所以，主权货币国际化当下面临的不仅有现存国际货币的挑战，而且还有新货币形态的体系性冲击。</p>
-<figure data-type="image" tabindex="2"><img src="https://eosvote.com//post-images/1572075704662.png" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://eosvote.com//post-images/1572075704662.png" alt="" loading="lazy"></figure>
 <p>2019年8月18日，《中共中央国务院关于支持深圳建设中国特色社会主义先行示范区的意见》其中第五条当中提到了一句，“支持在深圳开展数字货币研究与移动支付等创新应用。”从国家政策层面来看，我国有意研究数字货币来打破出口。</p>
 <h2 id="区块链登场突围">区块链登场突围</h2>
 <p>新华社北京10月25日电 中共中央政治局10月24日下午就区块链技术发展现状和趋势进行第十八次集体学习。中共中央总书记习近平在主持学习时强调，区块链技术的集成应用在新的技术革新和产业变革中起着重要作用。我们要把区块链作为核心技术自主创新的重要突破口，明确主攻方向，加大投入力度，着力攻克一批关键核心技术，加快推动区块链技术和产业创新发展。</p>
@@ -177,13 +250,13 @@
 胡书记喊你炒房，你说家里有一套，要那么多房子干嘛。<br>
 习大大说区块链了，你说我有自己眼光和选择…</p>
 </blockquote>
-<figure data-type="image" tabindex="3"><img src="https://eosvote.com//post-images/1572076618119.jpg" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://eosvote.com//post-images/1572076618119.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Block.One 执迷不悟]]></title>
-        <id>https://eosvote.com//post/whatb1doing</id>
-        <link href="https://eosvote.com//post/whatb1doing">
+        <id>https://eosvote.com/post/whatb1doing</id>
+        <link href="https://eosvote.com/post/whatb1doing">
         </link>
         <updated>2019-10-25T14:50:00.000Z</updated>
         <content type="html"><![CDATA[<p>贵总的<a href="https://eosvote.com/post/blockone/">《讨 Block.One檄文》</a>发出之后，被很多大V批评，文章也被7位小伙伴 “踩” ，其实完全没有必要，社区需要理性的声音。相信看完文章后深有同感的人，都是陪伴EOS从韩国首尔 Meetup 到主网上线再到华盛顿发布会一路走来的支持者。</p>
@@ -214,7 +287,7 @@
 <p>所以，到底是政策松动，还是B1合规做得好，我们还不得而知。可以肯定的是，B1在合规方面，并没有明显的优势，大家都做得差不多。</p>
 <h2 id="3生态做得好">3.生态做得好？</h2>
 <p>EOS主网上线的时候，下面这张图应该是广为流传的吧？没看过这张图的人肯定不是铁粉。</p>
-<figure data-type="image" tabindex="1"><img src="https://eosvote.com//post-images/1572015253854.jpg" alt=""></figure>
+<figure data-type="image" tabindex="1"><img src="https://eosvote.com//post-images/1572015253854.jpg" alt="" loading="lazy"></figure>
 <p>这里还有几个项目活着？这样的生态梦想，现在回头看，是不是支离破碎...</p>
 <p>EOS主网上线后不久，一款测试版的 Button 游戏就引来那么多玩家，让粉丝们见证了高TPS区块链的威力。菠菜Dapp爆发的时候日均流水千万，即使大半是小号，那也是真金白银开的账号啊！</p>
 <p>后来Dapp死了一波又一波，有的搬到波场，有的跑路走人，B1你们做了什么？</p>
@@ -240,8 +313,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[讨 Block.One 檄文]]></title>
-        <id>https://eosvote.com//post/blockone</id>
-        <link href="https://eosvote.com//post/blockone">
+        <id>https://eosvote.com/post/blockone</id>
+        <link href="https://eosvote.com/post/blockone">
         </link>
         <updated>2019-10-22T14:31:35.000Z</updated>
         <content type="html"><![CDATA[<p>今天一大早在少数派微信社群都在吐槽EOS，负面情绪蔓延，M1团队的贵总火速写了这篇文章，整出了中英文版本，然后火速地同步到推特、电报、微博和币乎等平台。社区内很多成员对B1的不作为（与波场相比）深有同感，对下文表达的这些都深表赞同。</p>
@@ -283,7 +356,7 @@
 <p>以上观点仅代表个人意见，和MEET.ONE团队无关。</p>
 <blockquote>
 <p>本文转载自 <a href="https://meet.one/">MEET.ONE</a> 贵总，版权归贵总所有。2019-10-22<br>
-<img src="https://eosvote.com//post-images/1572101402336.jpeg" alt=""></p>
+<img src="https://eosvote.com//post-images/1572101402336.jpeg" alt="" loading="lazy"></p>
 </blockquote>
 ]]></content>
     </entry>
