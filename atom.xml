@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eosvote.com/</id>
     <title>Macin</title>
-    <updated>2020-01-01T06:30:38.812Z</updated>
+    <updated>2020-01-01T11:01:04.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eosvote.com/"/>
     <link rel="self" href="https://eosvote.com/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://eosvote.com/images/avatar.png</logo>
     <icon>https://eosvote.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Macin</rights>
+    <entry>
+        <title type="html"><![CDATA[20200101日记]]></title>
+        <id>https://eosvote.com/post/1XY6W9IIU</id>
+        <link href="https://eosvote.com/post/1XY6W9IIU">
+        </link>
+        <updated>2020-01-01T10:11:05.000Z</updated>
+        <content type="html"><![CDATA[<p>美国太空部队于2019年12月20日正式成立，保卫美国在宇宙空间的安全和利益，成为美国的<strong>第六个军种</strong>。前五个是陆军，海军，空军，海军陆战队，海岸警卫队。</p>
+<p>我们都知道，如果可以回到过去，改变任何一件小事情，都将极大地改变未来。<br>
+然而，几乎没有人想到，<strong>今天只要小小改变，就会改变自己的未来。</strong><br>
+-- BenSassiAladin@Twitter</p>
+<p>Instagram 被FB以10亿美元收购时（2012年），只有13位员工。</p>
+<blockquote>
+<p>这才是敏捷创业的最佳典范啊！</p>
+</blockquote>
+<p><strong>特斯拉上海</strong>工厂实现每小时28辆车下线，国产Model 3的落地价为32万人民币，是进口车的一半。</p>
+<p>iOS 和 macOS 版 Apple News 不再支持添加 RSS。</p>
+<p>交通运输部新闻发言人吴春耕27日在国新闻办表示，截至2019年12月23日，全国ETC客户累计达1.97亿。</p>
+<blockquote>
+<p>现在各大银行都在大力推广ETC，然而，现在只有这么点用户。为什么司机朋友们不去办理ETC呢？是手续麻烦，还是根本没有痛点？</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用饿了么撸KEY，这是什么骚操作？]]></title>
         <id>https://eosvote.com/post/OX2Hd_6aE</id>
